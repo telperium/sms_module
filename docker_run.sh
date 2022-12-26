@@ -1,0 +1,1 @@
+sudo docker run  --env-file env.list -it login_system 
